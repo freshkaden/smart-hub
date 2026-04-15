@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+//import './index.css';
 import './App.css';
 import LiveClock from './components/LiveClock';
 import Weather from './components/Weather';
